@@ -10,6 +10,10 @@ shared_config = {
   }
 }
 
+tags = {
+  Team = "backend"
+}
+
 app_settings = {
   timeout = 30
 }

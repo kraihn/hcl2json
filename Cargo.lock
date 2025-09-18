@@ -215,6 +215,7 @@ dependencies = [
  "clap",
  "glob",
  "hcl-rs",
+ "serde",
  "serde_json",
  "tempfile",
 ]

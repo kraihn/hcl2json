@@ -10,6 +10,10 @@ shared_config = {
   }
 }
 
+tags = {
+  Environment = "staging"
+}
+
 network_settings = {
   vpc_cidr = "10.0.0.0/16"
 }

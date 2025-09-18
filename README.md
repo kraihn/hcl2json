@@ -16,6 +16,12 @@ A fast and reliable CLI tool to convert HCL (HashiCorp Configuration Language) f
 
 ## Installation
 
+### From GitHub
+```bash
+cargo install --git https://github.com/kraihn/hcl2json
+```
+
+### From Source
 ```bash
 cargo install --path .
 ```
