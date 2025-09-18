@@ -12,6 +12,7 @@ clap = { version = "4.0", features = ["derive"] }
 hcl-rs = "0.16"
 serde_json = "1.0"
 anyhow = "1.0"
+glob = "0.3"
 
 [dev-dependencies]
 tempfile = "3.0"
